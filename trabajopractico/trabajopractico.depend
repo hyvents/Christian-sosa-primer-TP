@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523572091 source:c:\users\exo\downloads\trabajopractico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1523568515 c:\users\exo\downloads\trabajopractico\libreria.h
+
+1523568515 source:c:\users\exo\downloads\trabajopractico\libreria.c
+	"libreria.h"
+
